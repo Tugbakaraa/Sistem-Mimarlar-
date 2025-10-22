@@ -1,0 +1,2 @@
+# Sistem-Mimarlar-
+Hayat Payı 
