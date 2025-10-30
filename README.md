@@ -7,9 +7,9 @@
 - NAZLI TURGUT =  2402131007
 
 ## PROJE AMACI
-- Günümüzde artan şiddet ve tehdit olayları, özellikle kadınlar için ciddi bir güvenlik sorunu oluşturmak bunun önüne geçmek amacıyla
-acil durumlarda yardım çağrısı ve konum paylaşımıyla kullanıcının fiziksel güvenliğini ön plana almaktadır.
-Ancak mevcut uygulamalar genellikle yalnızca acil durum çağrısına odaklanmakta bu çalışmada önerilen sistemse olay öncesi risk takibi, delil koruma, psikolojik destek ve kullanıcı güvenliği gibi kapsamlı yaklaşımlar sunarak daha güvenli bir ortam hazırlamaktır.
+- Günümüzde artan şiddet ve tehdit olayları, özellikle kadınlar için ciddi bir güvenlik sorunu oluşturmakta bunun önüne geçmek amacıyla
+acil durumlarda yardım çağrısı ve konum paylaşımıyla kullanıcının fiziksel güvenliğini ön plana almaktır.
+Ancak mevcut uygulamalar yalnızca acil durum çağrısına odaklanmaktadır bu çalışmada ön planda olan sistemse: olay öncesi risk takibi, delil koruma, psikolojik destek ve kullanıcı güvenliği gibi kapsamlı yaklaşımlar sunarak daha güvenli bir ortam hazırlamaktır.
 
 ## PROJENİN ÖZELLİKLERİ
 - Acil durumlarda konum paylaşımı yapmaktadır.
