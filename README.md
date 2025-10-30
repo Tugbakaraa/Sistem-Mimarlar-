@@ -12,10 +12,10 @@ acil durumlarda yardım çağrısı ve konum paylaşımıyla kullanıcının fiz
 Ancak mevcut uygulamalar yalnızca acil durum çağrısına odaklanmaktadır bu çalışmada ön planda olan sistemse: olay öncesi risk takibi, delil koruma, psikolojik destek ve kullanıcı güvenliği gibi kapsamlı yaklaşımlar sunarak daha güvenli bir ortam hazırlamaktır.
 
 ## PROJENİN ÖZELLİKLERİ
-- Acil durumlarda konum paylaşımı yapmaktadır.
-- Delil koruma sistemi ve risk haritası bulunmaktadır.
-- Psikolojik ve maddi destek hattı bukunmaktadır.
-- Güvenlik güçleriyle işbirliği içerisindedir.
+- Acil durumlarda güvenli güçleriyle konum paylaşımı yapmaktadır.
+- Delil koruma ve risk haritası sistemi bulunmaktadır.
+- Psikolojik ve maddi destek hattıyla daha iyi bir ruh haline getirmeyi amaçlamaktadır .
+- Güvenlik güçleri işbirliğiyle müdahale süresini kısaltmaktadır.
 - Gönüllülük projeleriyle sürekli bir devinim içersindedir.
 
 ## FİZİBİLİTE RAPORU 
