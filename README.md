@@ -15,4 +15,4 @@ Bu çalışmada önerilen sistemse olay öncesi risk takibi, delil koruma, psiko
 ## PROJE ADIMLARI 
  
 ## FİZİBİLİTE RAPORU 
-  
+  https://www.overleaf.com/project/68fb72f187966f9bbcf4e053
