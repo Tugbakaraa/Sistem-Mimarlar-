@@ -1,9 +1,11 @@
 # PROJE ADI-HAYAT PAYI
+
 ## EKİP ÜYELERİ
 - TUĞBA KARA = 2402131025
 - ALEYNA DEMİRKIRAN = 2402131030
 - ŞEBNEM YILMAZ = 2402131037
 - NAZLI TURGUT =  2402131007
+
 ## PROJE AMACI
 - Günümüzde artan şiddet ve tehdit olayları, özellikle kadınlar için ciddi bir güvenlik sorunu oluşturmaktadır.
 Acil durumlarda yardım çağrısı ve konum paylaşımıyla kullanıcının fiziksel güvenliğini ön plana almaktadır.
@@ -15,7 +17,7 @@ Bu çalışmada önerilen sistemse olay öncesi risk takibi, delil koruma, psiko
 
 
 ## FİZİBİLİTE RAPORU 
-  https://www.overleaf.com/project/68fb72f187966f9bbcf4e053
+-  https://www.overleaf.com/project/68fb72f187966f9bbcf4e053
 
 ## PROJE ADIMLARI 
 - [x] 1.hafta: Fizibilite analizi
