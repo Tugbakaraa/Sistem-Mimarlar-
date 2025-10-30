@@ -18,15 +18,15 @@ Bu çalışmada önerilen sistemse olay öncesi risk takibi, delil koruma, psiko
   https://www.overleaf.com/project/68fb72f187966f9bbcf4e053
 
 ## PROJE ADIMLARI 
-  1.hafta: Fizibilite analizi
-  2.hafta: Analiz modelleme
-  3.hafta: Sistem Tasarımı
-  4.hafta: Nesneye Yönelik analiz ve Tasarım
-  5.hafta: Ara sınav
-  6.hafta: Analizden tasarıma ve sprint: Sistem mimarisi
-  7.hafta: Analizden tasarıma ve sprint: UI/UX tasarımı
-  8.hafta: Tasarım detayları ve sprint: Veri tabanı tasarımı 
-  9.hafta: Tasarım detayları ve sprint: Test stratejileri 
-  10.hafta: Proje sunumu
+1.hafta: Fizibilite analizi
+2.hafta: Analiz modelleme
+3.hafta: Sistem Tasarımı
+4.hafta: Nesneye Yönelik analiz ve Tasarım
+5.hafta: Ara sınav
+6.hafta: Analizden tasarıma ve sprint: Sistem mimarisi
+7.hafta: Analizden tasarıma ve sprint: UI/UX tasarımı
+8.hafta: Tasarım detayları ve sprint: Veri tabanı tasarımı 
+9.hafta: Tasarım detayları ve sprint: Test stratejileri 
+10.hafta: Proje sunumu
 
 
