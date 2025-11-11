@@ -19,8 +19,8 @@ Ancak mevcut uygulamalar yalnızca acil durum çağrısına odaklanmaktadır bu 
 - Gönüllülük projeleriyle sürekli bir devinim içersindedir.
 
 ## FİZİBİLİTE RAPORU 
--  https://www.overleaf.com/project/68fb72f187966f9bbcf4e053
-
+- Aleyna DEMİRKIRAN =  https://www.overleaf.com/project/68fb72f187966f9bbcf4e053 
+- Tuğba KARA = https://www.overleaf.com/project/68f8e57909c636c19da95bfb
 ## PROJE ADIMLARI 
 - [x] 1.hafta: Fizibilite analizi
 - [X] 2.hafta: Analiz modelleme
