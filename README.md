@@ -25,7 +25,7 @@ Ancak mevcut uygulamalar yalnızca acil durum çağrısına odaklanmaktadır bu 
 - [x] 1.hafta: Fizibilite analizi
 - [X] 2.hafta: Analiz modelleme
 - [x] 3.hafta: Sistem Tasarımı
-- [ ] 4.hafta: Nesneye Yönelik analiz ve Tasarım
+- [x] 4.hafta: Nesneye Yönelik analiz ve Tasarım
 - [x] 5.hafta: Ara sınav
 - [ ] 6.hafta: Analizden tasarıma ve sprint: Sistem mimarisi
 - [ ] 7.hafta: Analizden tasarıma ve sprint: UI/UX tasarımı
