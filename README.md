@@ -27,10 +27,10 @@ Ancak mevcut uygulamalar yalnızca acil durum çağrısına odaklanmaktadır bu 
 - [x] 3.hafta: Sistem Tasarımı
 - [x] 4.hafta: Nesneye Yönelik analiz ve Tasarım
 - [x] 5.hafta: Ara sınav
-- [ ] 6.hafta: Analizden tasarıma ve sprint: Sistem mimarisi
-- [ ] 7.hafta: Analizden tasarıma ve sprint: UI/UX tasarımı
-- [ ] 8.hafta: Tasarım detayları ve sprint: Veri tabanı tasarımı 
-- [ ] 9.hafta: Tasarım detayları ve sprint: Test stratejileri 
-- [ ] 10.hafta: Proje sunumu
+- [x] 6.hafta: Gereksinim Analizi ve Pazar Araştırması
+- [ ] 7.hafta: Süreç Modelleme (VAD Diyagramları)
+- [ ] 8.hafta: Veri Modelleme (VİD ve Tablo Tasarımları)
+- [ ] 9.hafta: Kullanıcı Arayüzü (UI) Prototipleme
+- [ ] 10.hafta: Final Raporlama ve Sunum Hazırlığı
 
 
