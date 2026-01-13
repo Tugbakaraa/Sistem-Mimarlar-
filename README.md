@@ -28,9 +28,9 @@ Ancak mevcut uygulamalar yalnızca acil durum çağrısına odaklanmaktadır bu 
 - [x] 4.hafta: Nesneye Yönelik analiz ve Tasarım
 - [x] 5.hafta: Ara sınav
 - [x] 6.hafta: Gereksinim Analizi ve Pazar Araştırması
-- [ ] 7.hafta: Süreç Modelleme (VAD Diyagramları)
-- [ ] 8.hafta: Veri Modelleme (VİD ve Tablo Tasarımları)
-- [ ] 9.hafta: Kullanıcı Arayüzü (UI) Prototipleme
-- [ ] 10.hafta: Final Raporlama ve Sunum Hazırlığı
+- [x] 7.hafta: Süreç Modelleme (VAD Diyagramları)
+- [x] 8.hafta: Veri Modelleme (VİD ve Tablo Tasarımları)
+- [x] 9.hafta: Kullanıcı Arayüzü (UI) Prototipleme
+- [x] 10.hafta: Final Raporlama ve Sunum Hazırlığı
 
 
